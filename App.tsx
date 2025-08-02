@@ -10,7 +10,7 @@ export default function App() {
     setIsActive((oldValue: boolean)=>{
       return !oldValue;
     });
-    console.log("Hello");
+    console.log("Cor alterada!");
   }
   return (
     <View style={Active ? styles.containerOn : styles.containerOff}>
