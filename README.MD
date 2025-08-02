@@ -29,7 +29,7 @@ npm install
 3. Rode o projeto:
 
 ```bash
-npx run start
+npm run start
 ```
 ## 🛠 Tecnologias utilizadas
 
